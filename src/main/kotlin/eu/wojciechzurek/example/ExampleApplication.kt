@@ -1,4 +1,4 @@
-package eu.wojciechzurek.example.kotlinspringfunctionalcoroutineexample
+package eu.wojciechzurek.example
 
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.reactive.awaitFirstOrNull
